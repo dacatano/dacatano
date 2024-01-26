@@ -1,4 +1,6 @@
-### Hi there 👋
+# Daniel Alejandro Cataño Ochoa 
+### :man_student: MSc(C) en Automatización y Control Industrial - Institución Universitaria ITM 
+### :man_student: Ingeniero de Telecomunicaciones - Institución Universitaria ITM
 
 <!--
 **dacatano/dacatano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
